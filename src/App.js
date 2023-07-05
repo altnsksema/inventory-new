@@ -13,8 +13,12 @@ import { useState, useEffect} from 'react';
 function App() {
   return (
     <div className="App">
-
-      
+        <Header />
+        <Nav />
+        <AllAssetList />
+        <Report />
+        <Toner />
+        <Footer />     
     </div>
   );
 }

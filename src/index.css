@@ -32,8 +32,8 @@ body {
 header {
   width: 100%;
   padding: 0 0.25em;
-  background-color: gray;
-  color: aliceblue;
+  background-color: red;
+  color: rgb(255, 255, 255);
   display: flex;
   justify-content: space-between;
   align-items: center;

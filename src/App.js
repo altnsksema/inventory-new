@@ -6,9 +6,12 @@ import Footer from './Footer';
 function App() {
   return (
     <div className="App">
+      <main>
       <Header title="TÜRİB Envanteri" />
-      
+      </main>
       <Footer />
+
+      
     </div>
   );
 }
